@@ -8,4 +8,4 @@ Personal academic website of **Jingchun Shao**, a Ph.D. student in Mathematics a
 
 My current research interests include high-dimensional numerical methods, tensor methods, compressed sensing, low-dimensional structure, and optimal recovery.
 
-The website contains my research overview, selected research projects, contact information, and CV.
+The website contains my research overview, selected research projects, and contact information.
